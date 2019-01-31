@@ -454,6 +454,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) [3616⭐] - Desktop implementations of the Flutter embedding API by Google.
 - [Golang Desktop Embedder](https://github.com/Drakirus/go-flutter-desktop-embedder) [1467⭐] - Golang embedder for desktop by [Pierre Champion](https://github.com/Drakirus).
+- [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs) [23⭐] - Rust embedder for desktop by [juju](https://github.com/gliheng).
 
 ## Books
 
